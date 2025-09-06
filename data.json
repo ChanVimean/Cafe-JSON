@@ -1,3 +1,44 @@
 {
-  "product": []
+  "cafe": [
+    {
+      "id": 1,
+      "drink": "Ice Latte",
+      "size": ["S", "M", "L"],
+      "price": 1.5,
+      "description": "Made in Cambodia",
+      "image": "https://www.lavazzausa.com/content/dam/lavazza-athena/b2c/stories/article/coffee-secrets/iced-latte-recipe/hero/m-Iced-latte-recipe@2.jpg"
+    },
+    {
+      "id": 2,
+      "drink": "Matcha Latte",
+      "size": ["S", "M", "L"],
+      "price": 1.5,
+      "description": "Made in Cambodia",
+      "image": "https://coffeecopycat.com/wp-content/uploads/2023/04/IcedMatchaLatte-1200-x-1200.jpg"
+    },
+    {
+      "id": 3,
+      "drink": "Ice Cappuccino",
+      "size": ["S", "M", "L"],
+      "price": 1.5,
+      "description": "Made in Cambodia",
+      "image": "https://www.hersheyland.ca/content/dam/hersheyland_canada/en_ca/recipe-logos/recipe-images/sea-salt-caramel-iced-cappuccino-recipe.jpg"
+    },
+    {
+      "id": 4,
+      "drink": "Cafe tmor perl",
+      "size": ["S", "M", "L"],
+      "price": 1.25,
+      "description": "Made in Sopheara",
+      "image": "https://europeancoffeetrip.com/wp-content/uploads/2017/09/asian-cafes-1024x683.jpg"
+    },
+    {
+      "id": 5,
+      "drink": "Ice Americano",
+      "size": ["S", "M", "L"],
+      "price": 1.5,
+      "description": "Made in Cambodia",
+      "image": "https://diethood.com/wp-content/uploads/2023/08/iced-americano-3.jpg"
+    }
+  ]
 }
